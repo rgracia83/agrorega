@@ -1,0 +1,9 @@
+{
+  "name": "AgroRega Manager",
+  "short_name": "AgroRega",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f8f5",
+  "theme_color": "#0f5132",
+  "icons": []
+}
